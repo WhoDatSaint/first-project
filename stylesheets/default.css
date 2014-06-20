@@ -1,7 +1,12 @@
 body {
+   font-family: "Courier New", Courier, Helvetica;
    font-size: 16px;
 }
 
 h1 {
    font-size: 48px;
+}
+
+.top20 {
+   top: 20px;
 }
