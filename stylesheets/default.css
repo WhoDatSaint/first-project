@@ -17,3 +17,15 @@ h1 {
    font-family: Arial, Helvetica;
    font-size: 18px;
 }
+
+.center {
+   text-aligned: center;
+}
+
+.right {
+   float: right;
+}
+
+.left {
+   float: left;
+}
